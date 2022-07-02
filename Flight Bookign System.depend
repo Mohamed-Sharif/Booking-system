@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1656733720 source:c:\users\sharif\desktop\flight bookign system\main.c
+	<string.h>
+	"header.h"
+
+1656730280 c:\users\sharif\desktop\flight bookign system\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stdtype.h"
+
+1656643911 c:\users\sharif\desktop\flight bookign system\stdtype.h
+
+1656732646 source:c:\users\sharif\desktop\flight bookign system\functions.c
+	<string.h>
+	"header.h"
+
